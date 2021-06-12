@@ -1,6 +1,4 @@
-# WisualClient README FILE
-# UPDATED 2021/06/12
-C
+# WisualClient README FILE UPDATED 2021/05/29
 《Wisual Client II用户使用协议》 二〇二一年五月二十九日 第二版
 Wisual Client II是有维思洼Wisual编写、提供的，在使用前，请务必认真阅读和理解《Wisual Client II用户使用协议》（以下简称《协议》）中规定的所有权利和限制。除非您接受本《协议》条款，否则您无权下载、安装或使用Wisual Client II及其相关服务。一旦安装、复制、下载、访问或以其它方式使用Wisual Client II产品的用户（以下全部简称"任意用户"），将视为对本《协议》的接受，即表示您同意接受本《协议》各项条款的约束。如果您不同意本《协议》中的条款，请不要安装、复制或使用Wisual Client II软件。本《协议》是用户与维思洼Wisual之间关于用户下载、安装、使用、复制的法律协议。
 一、总则
